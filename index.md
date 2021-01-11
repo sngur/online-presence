@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Sngur Online Presence On-Boarding Plan 2021
 
-You can use the [editor on GitHub](https://github.com/sngur/online-presence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As part of our 2021 plan, we are offering a basic plan for individuals, institutes and other small startups who would like to have an online presence by providing service 
+of having their institute or business websites deployed on the Internet without any technical knowhow at minimal cost.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Basic Plan includes:
 
-### Markdown
+- Domain Name Registration* (.in or .edu.in or .ac.in)
+- Website Design and Development (Mobile Friendly)
+- Website Server Setup, Hosting and Maintenance*
+- SSL Certificate* 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Website will have 5 pages: Home, About, Contact Us, News/Notices and Photo Gallery. Extra pages can be added later.
 
-```markdown
-Syntax highlighted code block
+**The Website will be hosted in a shared server running 2vCPU (Dual Core CPU) and 1GB RAM.
+A Dedicated virtual machine can also be provided.**
 
-# Header 1
-## Header 2
-### Header 3
+**Get SSL Certificate for you domain and make your website secure for people visiting.**
 
-- Bulleted
-- List
+[Register Now](https://forms.gle/DCdP9uvuY57yMqTL6)
 
-1. Numbered
-2. List
+### Support/Contact
 
-**Bold** and _Italic_ and `Code` text
+Have questions about our plan and want to know more, contact sngurshillong@gmail.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sngur/online-presence/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
